@@ -1,7 +1,37 @@
+# Telegram Bot
 python-telegram-bot==20.4
+
+# AI Chat (g4f)
 g4f==0.5.7.3
-cryptography
-Pillow
-requests
-yt-dlp
-beautifulsoup4
+
+# Работа с криптографией для памяти
+cryptography==41.0.4
+
+# База данных
+pysqlite3==0.4.8
+
+# HTTP запросы
+httpx==0.24.1
+requests==2.31.0
+
+# Векторный анализ и математика
+numpy==1.26.5
+
+# Асинхронное планирование задач
+APScheduler==3.10.6
+
+# Для скачивания видео
+pytube==15.0.1
+yt-dlp==2026.1.1
+moviepy==2.0.0.dev9
+
+# Для работы с изображениями
+Pillow==10.0.0
+
+# Для парсинга новостей и сайтов
+beautifulsoup4==4.12.2
+lxml==4.9.3
+feedparser==6.0.10
+
+# Работа с TikTok и другими видео платформами
+tiktokapipy==0.3.7  # или любая актуальная библиотека для TikTok API
