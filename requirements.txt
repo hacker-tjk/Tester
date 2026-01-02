@@ -1,0 +1,7 @@
+python-telegram-bot==20.4
+g4f==0.5.7.3
+cryptography
+Pillow
+requests
+yt-dlp
+beautifulsoup4
